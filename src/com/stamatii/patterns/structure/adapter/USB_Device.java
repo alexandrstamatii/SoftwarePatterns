@@ -1,6 +1,6 @@
 package com.stamatii.patterns.structure.adapter;
 
-public class USB_Device implements USB_Interface {
+public class USB_Device implements USB {
 
 	@Override
 	public void plugIn_USB() {

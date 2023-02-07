@@ -1,6 +1,6 @@
 package com.stamatii.patterns.structure.adapter;
 
-public class MemoryCard_USB_Adapter implements USB_Interface {
+public class MemoryCard_USB_Adapter implements USB {
 
 	private MemoryCard memoryCard;
 	
