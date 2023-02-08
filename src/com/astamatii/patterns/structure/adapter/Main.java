@@ -1,4 +1,4 @@
-package com.stamatii.patterns.structure.adapter;
+package com.astamatii.patterns.structure.adapter;
 
 public class Main {
 
